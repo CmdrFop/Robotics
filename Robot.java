@@ -52,5 +52,6 @@ public class Robot
 		float distance = ultraSample.getDistance();
 		
 		return distance;
+		//test
 	}	
 }

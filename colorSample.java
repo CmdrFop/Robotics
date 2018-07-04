@@ -26,5 +26,6 @@ class colorSample
 	{
 		rgbProvider.fetchSample(rgbSample, 0);
 		return rgbSample;
+	//Test
 	}
 }

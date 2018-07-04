@@ -41,5 +41,6 @@ class PDController
 		rightSpeed = TARGET_POWER - turn;
 		
 		Robot.drive(leftSpeed, rightSpeed*0.6f);
+		//test
 	}
 }
